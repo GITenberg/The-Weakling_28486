@@ -1,0 +1,39 @@
+_repo: The-Weakling_28486
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Van Dongen, Henry Richard
+    - Dongen, H. R. Van
+    - Dongen, van
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: archival
+  image_path: 28486-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cole, Everett B.
+    birthdate: 1918
+    deathdate: 1977
+    gutenberg_agent_id: '25329'
+    url: http://www.gutenberg.org/2009/agents/25329
+    wikipedia: http://en.wikipedia.org/wiki/Everett_B._Cole
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Weakling
+url: http://www.gutenberg.org/ebooks/28486
