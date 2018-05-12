@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25329
     wikipedia: http://en.wikipedia.org/wiki/Everett_B._Cole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28486#The-Weakling
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-04-03'
 gutenberg_type: Text
